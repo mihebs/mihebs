@@ -16,4 +16,4 @@ Hi! I'm Mirella: a student passionate about technology and innovation.
 
 ##
 
-![snake gif](https://github.com/mihebs/mihebs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mihebs/mihebs/blob/output/github-contribution-grid-snake.svg) 
