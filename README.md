@@ -2,7 +2,7 @@
 
 Hi! I'm Mirella: a student passionate about technology and innovation.
 
-- I’m currently studying Analysis and Systems Development at IFPE
+- I’m currently studying Analysis and Systems Development at Cesar School
 - I’m open to work and share ideas!!
 
 ##
